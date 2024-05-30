@@ -40,7 +40,6 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`username`, `nickname`, `profilepicture`, `password`, `kode`) VALUES
-('Grisha', 'Grisha', 'IMG-20231220-WA0001.jpg', '123ewqas', '123ewq'),
 ('naufalazhar', 'ADMIN', 'IMG_20230201_012822_015.jpg', '11111111', '111111'),
 ('nopal', 'nopaloioi', '2021_06_06_15_04_IMG_1072.JPG', '12345678', '123456'),
 ('paphoocantiq', 'paphoo', 'IMG_2591.jpeg', 'paphocan', 'paphoc'),
